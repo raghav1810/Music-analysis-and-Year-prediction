@@ -1,4 +1,4 @@
-# Music-analysis-and-Year-prediction
+# Music analysis and Year prediction
 A subset of the Million Song Dataset is used.
 The [dataset](https://www.kaggle.com/uciml/msd-audio-features) available on Kaggle.
 
